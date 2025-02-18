@@ -1,0 +1,7 @@
+argparse 
+dnspython 
+requests
+python-whois
+Flask
+flask_cors
+python3-nmap
